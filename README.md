@@ -42,7 +42,7 @@ Title|User story用户案例|Importance|Note
 摄像|摄像师利用一些大型摄录机器拍摄时，可直接利用机械学习出来的运动轨迹，而无需再找一个熟悉机械臂控制的人员来操作|must have|制作轨迹
 
 # 使用者交互及设计: User interaction and design#
-[产品原型](https://ayasewakaba.github.io/appweek7/#g=1 "产品原型")
+[产品原型](https://ayasewakaba.github.io/api_AXURE/ "产品原型")
 
 # 问题 Questions#
 初步能利用机械臂模仿使用者在摄像头前的手势
